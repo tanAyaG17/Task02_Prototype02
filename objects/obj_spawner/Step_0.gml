@@ -4,11 +4,11 @@
 spawn_timer--;
 fakefood_timer--;
 
-// Limit the maximum amount of animals
+
 var max_animals = 40;
 
 if (spawn_timer <= 0) {
-	var dynamic_max_animals = 20 + (global.score div 5); //+1 animal every 5points
+	var dynamic_max_animals = 20 + (global.score div 5); 
 	if (instance_number(obj_animal) < dynamic_max_animals) {
 		instance_create_layer(irandom_range(32, room_width-32), irandom_range(32, room_height-32), "Instances", obj_animal);
 	}

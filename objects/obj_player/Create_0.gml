@@ -3,7 +3,8 @@
 
 
 
-holding_food = ""; 
+holding_food = "";
+fake_food_chance = 50;
 
 
 

@@ -5,7 +5,6 @@
   "resources": [
     {"id":{"name":"obj_animal","path":"objects/obj_animal/obj_animal.yy",},"order":2,},
     {"id":{"name":"obj_foodpile","path":"objects/obj_foodpile/obj_foodpile.yy",},"order":1,},
-    {"id":{"name":"obj_end_screen","path":"objects/obj_end_screen/obj_end_screen.yy",},"order":6,},
     {"id":{"name":"endscreen","path":"fonts/endscreen/endscreen.yy",},"order":0,},
     {"id":{"name":"spr_garbage","path":"sprites/spr_garbage/spr_garbage.yy",},"order":5,},
     {"id":{"name":"obj_fakefood","path":"objects/obj_fakefood/obj_fakefood.yy",},"order":3,},
